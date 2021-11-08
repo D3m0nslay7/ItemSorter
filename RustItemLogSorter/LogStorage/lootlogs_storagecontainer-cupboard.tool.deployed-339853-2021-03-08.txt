@@ -1,0 +1,109 @@
+[2021-03-08] cupboard.tool.deployed deposited 267x Metal Fragments
+[2021-03-08] cupboard.tool.deployed deposited 2000x Wood
+[2021-03-08] zackDbest looted 267x Metal Fragments
+[2021-03-08] zackDbest deposited 267x Metal Fragments
+[2021-03-08] zackDbest deposited 100x Stones
+[2021-03-08] zackDbest looted 1764x Wood
+[2021-03-08] zackDbest deposited 1764x Wood
+[2021-03-08] zackDbest looted 1764x Wood
+[2021-03-08] zackDbest looted 476x Cloth
+[2021-03-08] zackDbest deposited 426x Cloth
+[2021-03-08] zackDbest deposited 1439x Wood
+[2021-03-08] zackDbest looted 300x Animal Fat
+[2021-03-08] zackDbest looted 426x Cloth
+[2021-03-08] zackDbest deposited 16x Scrap
+[2021-03-08] zackDbest deposited 429x Cloth
+[2021-03-08] zackDbest deposited 228x Low Grade Fuel
+[2021-03-08] zackDbest deposited 117x Animal Fat
+[2021-03-08] zackDbest deposited 41x Stones
+[2021-03-08] zackDbest looted 1692x Wood
+[2021-03-08] zackDbest deposited 1429x Wood
+[2021-03-08] zackDbest looted 2000x Stones
+[2021-03-08] zackDbest deposited 52x High Quality Metal
+[2021-03-08] zackDbest deposited 1000x Sulfur Ore
+[2021-03-08] zackDbest deposited 94x Stones
+[2021-03-08] zackDbest deposited 861x Wood
+[2021-03-08] zackDbest deposited 1600x Metal Ore
+[2021-03-08] zackDbest deposited 94x Stones
+[2021-03-08] zackDbest looted 2000x Wood
+[2021-03-08] zackDbest looted 436x Scrap
+[2021-03-08] zackDbest deposited 29x Sulfur Ore
+[2021-03-08] zackDbest deposited 1131x Charcoal
+[2021-03-08] zackDbest deposited 351x Sulfur
+[2021-03-08] zackDbest looted 2000x Metal Ore
+[2021-03-08] zackDbest looted 1600x Metal Ore
+[2021-03-08] zackDbest looted 2000x Metal Ore
+[2021-03-08] zackDbest looted 2000x Sulfur Ore
+[2021-03-08] zackDbest looted 2000x Sulfur Ore
+[2021-03-08] zackDbest deposited 29x Sulfur Ore
+[2021-03-08] zackDbest deposited 29x Sulfur Ore
+[2021-03-08] zackDbest looted 600x Sulfur Ore
+[2021-03-08] zackDbest looted 600x Sulfur Ore
+[2021-03-08] zackDbest looted 629x Sulfur Ore
+[2021-03-08] zackDbest looted 629x Sulfur Ore
+[2021-03-08] zackDbest looted 1629x Sulfur Ore
+[2021-03-08] zackDbest looted 1131x Charcoal
+[2021-03-08] zackDbest looted 351x Sulfur
+[2021-03-08] zackDbest looted 228x Low Grade Fuel
+[2021-03-08] zackDbest deposited 168x Low Grade Fuel
+[2021-03-08] zackDbest deposited 149x Metal Fragments
+[2021-03-08] zackDbest deposited 149x Metal Fragments
+[2021-03-08] zackDbest deposited 99x Low Grade Fuel
+[2021-03-08] zackDbest looted 1989x Metal Fragments
+[2021-03-08] zackDbest looted 990x Metal Fragments
+[2021-03-08] zackDbest looted 878x Bone Fragments
+[2021-03-08] zackDbest looted 50x High Quality Metal
+[2021-03-08] zackDbest looted 1829x Wood
+[2021-03-08] zackDbest looted 705x Leather
+[2021-03-08] zackDbest looted 99x Low Grade Fuel
+[2021-03-08] zackDbest looted 990x Metal Fragments
+[2021-03-08] zackDbest looted 1256x Cloth
+[2021-03-08] zackDbest looted 4x High Quality Metal Ore
+[2021-03-08] zackDbest looted 25x Stones
+[2021-03-08] zackDbest looted 1585x Stones
+[2021-03-08] zackDbest looted 117x Animal Fat
+[2021-03-08] zackDbest looted 585x Stones
+[2021-03-08] zackDbest looted 1069x Wood
+[2021-03-08] zackDbest deposited 585x Stones
+[2021-03-08] zackDbest deposited 585x Stones
+[2021-03-08] zackDbest deposited 585x Stones
+[2021-03-08] zackDbest deposited 585x Stones
+[2021-03-08] zackDbest deposited 2000x Metal Fragments
+[2021-03-08] zackDbest deposited 2000x Metal Fragments
+[2021-03-08] zackDbest deposited 990x Metal Fragments
+[2021-03-08] zackDbest deposited 50x High Quality Metal
+[2021-03-08] zackDbest deposited 1069x Wood
+[2021-03-08] zackDbest deposited 1069x Wood
+[2021-03-08] zackDbest deposited 1256x Cloth
+[2021-03-08] zackDbest deposited 705x Leather
+[2021-03-08] zackDbest looted 1256x Cloth
+[2021-03-08] zackDbest looted 705x Leather
+[2021-03-08] zackDbest deposited 4x CCTV Camera
+[2021-03-08] zackDbest deposited 1x Targeting Computer
+[2021-03-08] zackDbest deposited 176x Low Grade Fuel
+[2021-03-08] zackDbest looted 176x Low Grade Fuel
+[2021-03-08] zackDbest deposited 24x Charcoal
+[2021-03-08] zackDbest deposited 606x Gun Powder
+[2021-03-08] zackDbest deposited 64x Low Grade Fuel
+[2021-03-08] zackDbest looted 64x Low Grade Fuel
+[2021-03-08] zackDbest deposited 4x Low Grade Fuel
+[2021-03-08] zackDbest deposited 900x Cloth
+[2021-03-08] zackDbest deposited 956x Gun Powder
+[2021-03-08] zackDbest deposited 561x Gun Powder
+[2021-03-08] zackDbest deposited 1441x Gun Powder
+[2021-03-08] zackDbest deposited 688x Metal Fragments
+[2021-03-08] zackDbest deposited 363x Stones
+[2021-03-08] zackDbest deposited 68x Scrap
+[2021-03-08] zackDbest looted 68x Scrap
+[2021-03-08] zackDbest deposited 123x High Quality Metal
+[2021-03-08] zackDbest deposited 19x High Quality Metal
+[2021-03-08] zackDbest deposited 19x High Quality Metal
+[2021-03-08] zackDbest deposited 19x High Quality Metal
+[2021-03-08] zackDbest looted 19x High Quality Metal
+[2021-03-08] zackDbest looted 200x High Quality Metal
+[2021-03-08] zackDbest deposited 12x High Quality Metal
+[2021-03-08] zackDbest deposited 12x High Quality Metal
+[2021-03-08] zackDbest deposited 1600x Metal Fragments
+[2021-03-08] zackDbest looted 62x High Quality Metal
+[2021-03-08] zackDbest deposited 8x Charcoal
+[2021-03-08] zackDbest deposited 346x Sulfur

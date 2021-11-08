@@ -1,0 +1,26 @@
+[2021-03-08] Orange juice deposited 30x Pistol Bullet
+[2021-03-08] Orange juice deposited 2x Rifle Body
+[2021-03-08] Orange juice deposited 8x 12 Gauge Slug
+[2021-03-08] Orange juice deposited 48x 12 Gauge Buckshot
+[2021-03-08] Orange juice deposited 2x Metal Spring
+[2021-03-08] Orange juice deposited 4x Satchel Charge
+[2021-03-08] Orange juice deposited 2x F1 Grenade
+[2021-03-08] Orange juice deposited 1x Green Keycard
+[2021-03-08] Orange juice deposited 1x Salvaged Cleaver
+[2021-03-08] Orange juice deposited 1x Hammer
+[2021-03-08] Orange juice deposited 1x Pump Shotgun
+[2021-03-08] Orange juice deposited 1x Torch
+[2021-03-08] Orange juice looted 30x Pistol Bullet
+[2021-03-08] Orange juice looted 2x F1 Grenade
+[2021-03-08] Orange juice looted 1x Green Keycard
+[2021-03-08] Orange juice looted 2x Rifle Body
+[2021-03-08] Orange juice looted 8x 12 Gauge Slug
+[2021-03-08] woodbox_deployed deposited 48x 12 Gauge Buckshot
+[2021-03-08] woodbox_deployed deposited 1x Hammer
+[2021-03-08] Orange juice looted 1x Salvaged Cleaver
+[2021-03-08] Orange juice looted 1x Pump Shotgun
+[2021-03-08] Orange juice looted 1x Torch
+[2021-03-08] Orange juice looted 4x Satchel Charge
+[2021-03-08] Orange juice looted 2x Metal Spring
+[2021-03-08] Orange juice looted 1x Hammer
+[2021-03-08] Orange juice looted 48x 12 Gauge Buckshot

@@ -1,0 +1,8 @@
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\bin\Debug\RustItemLogSorter.exe.config
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\bin\Debug\RustItemLogSorter.exe
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\bin\Debug\RustItemLogSorter.pdb
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\obj\Debug\RustItemLogSorter.csproj.CoreCompileInputs.cache
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\obj\Debug\RustItemLogSorter.exe
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\obj\Debug\RustItemLogSorter.pdb
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\obj\Debug\RustItemLogSorter.csproj.ResolveComReference.cache
+D:\Programs\CodingStuff\RustItemLogSorter\RustItemLogSorter\obj\Debug\RustItemLogSorter.csproj.AssemblyReference.cache

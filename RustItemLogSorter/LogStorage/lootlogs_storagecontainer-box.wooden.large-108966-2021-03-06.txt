@@ -1,0 +1,48 @@
+[2021-03-06] Smash deposited 10x Rope
+[2021-03-06] Smash deposited 5x Gears
+[2021-03-06] Smash deposited 1x Binoculars
+[2021-03-06] Smash deposited 3x Tarp
+[2021-03-06] Smash deposited 210x Scrap
+[2021-03-06] Smash deposited 14x Low Grade Fuel
+[2021-03-06] Smash deposited 34x Crude Oil
+[2021-03-06] Smash deposited 1x Rug Bear Skin
+[2021-03-06] Smash deposited 648x Metal Fragments
+[2021-03-06] Smash deposited 48x Gun Powder
+[2021-03-06] Smash deposited 32x Sulfur
+[2021-03-06] Smash deposited 2x Electric Fuse
+[2021-03-06] Smash deposited 9x High Quality Metal
+[2021-03-06] Smash deposited 6x Metal Pipe
+[2021-03-06] Smash deposited 1x Diving Fins
+[2021-03-06] Smash deposited 1x Hammer
+[2021-03-06] Smash deposited 1x Building Plan
+[2021-03-06] Smash deposited 108x Cloth
+[2021-03-06] Smash deposited 2x Sheet Metal
+[2021-03-06] Smash deposited 1x Bone Knife
+[2021-03-06] Smash deposited 4x Wooden Barricade Cover
+[2021-03-06] Smash looted 4x Wooden Barricade Cover
+[2021-03-06] Smash deposited 1x Salvaged Cleaver
+[2021-03-06] Smash looted 1x Binoculars
+[2021-03-06] Smash looted 648x Metal Fragments
+[2021-03-06] Smash looted 210x Scrap
+[2021-03-06] Smash looted 32x Sulfur
+[2021-03-06] Smash looted 48x Gun Powder
+[2021-03-06] Smash looted 14x Low Grade Fuel
+[2021-03-06] Smash looted 9x High Quality Metal
+[2021-03-06] Smash looted 108x Cloth
+[2021-03-06] Smash looted 5x Gears
+[2021-03-06] Smash looted 10x Rope
+[2021-03-06] Smash looted 6x Metal Pipe
+[2021-03-06] Smash looted 2x Sheet Metal
+[2021-03-06] Smash looted 1x Hammer
+[2021-03-06] Smash looted 2x Electric Fuse
+[2021-03-06] Smash looted 3x Tarp
+[2021-03-06] Smash deposited 1x Hammer
+[2021-03-06] Smash looted 34x Crude Oil
+[2021-03-06] box.wooden.large deposited 1x Hammer
+[2021-03-06] box.wooden.large deposited 1x Building Plan
+[2021-03-06] Smash looted 1x Hammer
+[2021-03-06] Smash looted 1x Building Plan
+[2021-03-06] Smash looted 1x Rug Bear Skin
+[2021-03-06] Smash looted 1x Diving Fins
+[2021-03-06] Smash looted 1x Salvaged Cleaver
+[2021-03-06] Smash looted 1x Bone Knife
